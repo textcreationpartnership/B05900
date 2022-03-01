@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The so much fam'd tablets</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05900</idno>
+            <idno type="STC">Wing S4398</idno>
+            <idno type="STC">ESTC R184416</idno>
+            <idno type="EEBO-CITATION">53981752</idno>
+            <idno type="OCLC">ocm 53981752</idno>
+            <idno type="VID">180386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180386)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2827:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The so much fam'd tablets</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patent medicines --  England --  Early works to 1800.</term>
+               <term>Tablets (Medicine) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="remedy">
+            <pb n="1" facs="tcp:180386:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 122 -->
+            <head>The ſo much Fam'd TABLETS.</head>
+            <p>ONE of which at a time being only chew'd or held in the Mouth, rowling it about with the Tongue, attracts by the Glandules of the Mouth, and evacuates by moderate and inoffenſive Spit<g ref="char:EOLhyphen"/>ting all Defluxions of Rheum or obnoxious Hum<g ref="char:EOLhyphen"/>ours that fall upon the Brain, Eyes, Ears, Noſe, Mouth, Teeth, Throat, Lungs, <hi>&amp;c.</hi> thereby won<g ref="char:EOLhyphen"/>derfully purging the Head and Brain, curing Head<g ref="char:EOLhyphen"/>achs tho' never ſo violent or of long ſtanding, Ver<g ref="char:EOLhyphen"/>tigoes, or Giddineſs or Swimming, Lethargies, Epi<g ref="char:EOLhyphen"/>lepſies, Apoplexies, Palſies, Convulſions, weak Me<g ref="char:EOLhyphen"/>mories, Sore Eyes, Noiſe in the Head, Deafneſs or thickneſs of Hearing, Red Faces, ſore, ulcer'd or canker'd Mouths, ſore Throats, <hi>&amp;c.</hi> being daily uſed for ſome time.</p>
+            <p>They Cure the Tooth-ach in a few Moments, render the Breath exceeding Sweet, tho' never ſo Strong or Stinking, and far beyond any Powder, Mouth-water or Gargle, make and keep the Teeth white, faſt and ſound, cleanſing and preſerving the Gums from the Scurvy, Soreneſs and Foulneſs, <hi>&amp;c.</hi>
+            </p>
+            <p>They remove Catarrhs, Tickling, Phthiſical or Aſhmatical Coughs, whether from Colds or ſharp Humours, which if not timely remedied, fall upon the Lungs and cauſe of conſumptions.</p>
+            <pb n="2" facs="tcp:180386:2"/>
+            <!-- PDF PAGE 123 -->
+            <p>By a conſtant uſing them they attract and eva<g ref="char:EOLhyphen"/>cuate by Spitting, the Morbifick Cauſe of Rheu<g ref="char:EOLhyphen"/>matiſms, Gouts, Sciatica's, and other Pains, King's-Evil Swellings or Sores, Scurvies, Dropſies, Va<g ref="char:EOLhyphen"/>pours, Melancholly, and many other chronick Diſtempers.</p>
+            <p>They exceedingly ſweeten the Blood and Juyces, thereby conducing admirably to the Cure of Cancerous and other Swellings, whether in the Breaſts, Mouth or elſewhere, all running Sores, Ul<g ref="char:EOLhyphen"/>cers, Fiſtula's, Itchings, Pimples, Scabs, Tettars, Le<g ref="char:EOLhyphen"/>proſies, <hi>&amp;c.</hi> in any part of the Body, anſwering all the ends, and ſaving the trouble and danger of Sa<g ref="char:EOLhyphen"/>livation, if uſed for a continuance, and that with great ſafety, without the leaſt Pain or Diſturbance whatſoever.</p>
+            <p>They create an Appetite, and ſtrengthen Dige<g ref="char:EOLhyphen"/>ſtion, beyond all the inward Medicines known in the World, as will immediately appear by only uſing one of them as foreſaid for about an hour before eating, and the ſame after eating, for they bring off the watery flegmatick Humours which lodge in the Stomack, depraving the Appetite, and cauſe Wind, Crudities and Indigeſtions.</p>
+            <p>If one of them be uſed for about two hours, 'twill attract near a Pint of Rheum, and by Spit<g ref="char:EOLhyphen"/>ting out at any time the Tablet, the Flux imme<g ref="char:EOLhyphen"/>diately ceaſes, and the Mouth and Tongue not left hot, dry and furr'd, as with Tobacco, but cleans'd, refreſh'd, and render'd cool, moiſt and pleaſant, being therefore excellent to take off the Heat and Drineſs of the Mouth, and extinguiſh Thirſt in Fevers or otherwiſe.</p>
+            <pb n="3" facs="tcp:180386:2"/>
+            <!-- PDF PAGE 123 -->
+            <p>They vaſtly exceed the uſe of Tobacco either ſmoak'd or chew'd, all your celebrated Snuſhes in Vogue, Errhines, Lozenges, or any the like means, performing in every reſpect beyond what 'tis poſ<g ref="char:EOLhyphen"/>ſible for any of them to do, and that with far more Pleaſantneſs, Safety and Eaſe.</p>
+            <p>They are, of Chymical Preparation, a Secret lately found out <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y an Eminent Phyſician, being of an exceeding delightful Scent, and moſt charm<g ref="char:EOLhyphen"/>ing Flavour in the Mouth, and as harmleſs, taſtleſs and ſmall (only ſoft and flattiſh) as Peas, and may be uſed without hindrance of Buſineſs by the niceſt Perſon, old or young, at any time of the day, not cauſing the leaſt Offence or nauſeating.</p>
+            <p>Elderly Perſons and others whoſe Teeth are looſe or tender had better hold them in the Mouth, rowling them about with the Tongue, than chew them ſo much as others may whoſe Teeth are ſound, which will draw forth the Rheum as well as if chew'd.</p>
+            <p>They are to be had only (by the Author's ap<g ref="char:EOLhyphen"/>pointment) at Mr. <hi>Varenne</hi>'s a Bookſeller at the Sign of <hi>Seneca</hi>'s Head near <hi>Somerſet-houſe</hi> in the <hi>Strand, London,</hi> Price 3 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> each Box, containing twenty Tablets.</p>
+            <p>And ſince I have this fair opportunity I cannot but make uſe of it, in taking notice of the perni<g ref="char:EOLhyphen"/>cious uſe of Snuſh as it is taken now-a-days, it be<g ref="char:EOLhyphen"/>ing become ſo A-la-mode, as that 'tis uſed by moſt without any Reaſon or Conſideration, notwith<g ref="char:EOLhyphen"/>ſtanding many Experiences confirm that Apo<g ref="char:EOLhyphen"/>plexies (ſo Fatal of late) have been induced there<g ref="char:EOLhyphen"/>by; but Mankind is ſo infatuated to Faſhions, and fond of Novelties, that they will not be perſwaded
+<pb n="4" facs="tcp:180386:3"/>
+               <!-- PDF PAGE 124 -->off from a thing, tho' it be injurious to their Healths, and apparently brings along with it, its own Danger and Ruin.</p>
+            <p>It is too true that Apoplexies are now become as it were the Epidemick Diſtemper of all Nations where Snuff or Snuſh is taken, and I am very con<g ref="char:EOLhyphen"/>fident we have Forty ſeiz'd with that Diſeaſe now, to One that was taken with it Forty or Fifty Years agone, it having been obſerv'd, that there is ſcarcely one in an hundred who dye of Apoplexies, that has not been a Snuſh-taker: And that this Diſeaſe ſhould affect the Snuſh-takers only, or them chiefly, is apparent, becauſe by the conſtant and aſſiduous uſe of it, the thinner Juices of the Recriments of the Brain are continually ſeparated and diſcharged through the <hi>Os Ethmoides</hi> or Strainers, which paſs to the Noſe and Mouth, leaving the thicker parts of the ſame behind, which not afterwards being able to paſs through, ſtays to be increaſed by con<g ref="char:EOLhyphen"/>tinual additions till the Augmentation becomes conſiderable; where ſtill remaining and ſtill in<g ref="char:EOLhyphen"/>creaſing without probability of getting out (un<g ref="char:EOLhyphen"/>leſs by the uſe of one particular ſort of Snuſh now and then to be taken) the quantity at length comes to preſs upon the Meninges of the Brain, by which a grand Obſtruction being made, an Apoplexy is forthwith induced.</p>
+            <p>And I think this is evident not only by the Snuſh-takers of our own Nation who daily dye of Apoplexies, but alſo thoſe of <hi>Spain</hi> where Snuſh is moſt of all taken, and where Apoplexies are more Epidemick than in any other part of the World: If then the taking of Snuſh be no eſſential or real Good, but manifeſtly a dan<g ref="char:EOLhyphen"/>gerous
+<pb n="5" facs="tcp:180386:3"/>
+               <!-- PDF PAGE 124 -->and for the moſt part a Mortal Evil, Why ſhould the uſe of it be continued as it is, or Men be ſo fond of their own Hurt, unleſs (as I have ſaid before) becauſe they reſolve to be in the Mode, let the Conſequence of it be never ſo de<g ref="char:EOLhyphen"/>ſtructive.</p>
+            <p>But I would not that it ſhould be thought I therefore explode or decry the uſe of all ſorts of Snuſh, for there is one ſort (and ſcarcely any more, or at leaſtwiſe none to compare with it, being a Chymical Preparation) that may be taken with Safety and Succeſs, it being to be taken but ſometimes neither, the Receipt of which none knows but my ſelf, and which I have alſo appointed to be Sold by Mr. <hi>Varenne</hi> aforemention'd at One Shilling <hi>per</hi> Paper, to be taken the quantity of a ſmall Pea up each No<g ref="char:EOLhyphen"/>ſtril in a Morning, which will be found to ope<g ref="char:EOLhyphen"/>rate pleaſantly and acceptably and corroborate the Head, Brain and Nerves, and bring away much Foulneſs and thick Humours which obſtruct the Paſſages of the Brain, cauſing Sore Eyes, Blindneſs, Head-achs, Vapours, Wind in the Head, <hi>&amp;c.</hi> it being very ſafe, and working with<g ref="char:EOLhyphen"/>out the leaſt danger of taking Cold, bringing away congeal'd or clotted Blood or glutinous Matter, or Impoſthumes in the Head, whether from Blows, Falls, or otherwiſe, and effectually Cures Stuffings in the Noſtrils, and draws out Mercury lodg'd in the Head by irregular Saliva<g ref="char:EOLhyphen"/>tions or the uſe of Mercurial Remedies, and can<g ref="char:EOLhyphen"/>not but be the only Snuſh in the Univerſe for Lethargies, Vertigoes, Epilepſies, Apoplexies, Mad<g ref="char:EOLhyphen"/>neſs, and the like.</p>
+            <pb n="6" facs="tcp:180386:4"/>
+            <!-- PDF PAGE 125 -->
+            <p>In this Snuſh there is not the leaſt Grain of either <hi>Hellebor, Euphorbium</hi> or <hi>Tobacco,</hi> which are the chief Ingredients of all your Snuſhes in vogue, whether Foreign or Domeſtick made, and which by cauſing violent and long Sneezing, concuſs and ſhake the Brain, thereby inducing the ſame Diſeaſes, for which this Snuff of mine is often<g ref="char:EOLhyphen"/>times a perfect Cure; and as ſtrong Sneezings are apparently hurtful if not pernicious, (Nature abhorring Violence) ſuch Snuſhes ought carefully to be avoided.</p>
+            <p>But this here recommended makes the ſtag<g ref="char:EOLhyphen"/>nated Humours fluxile, and brings away not only a thin Water through the Noſtrils as other Snuſhes, but alſo a thick glutinous Matter, inſomuch that when the Faculties or Intellectuals are torpid, dull and heavy, as in Apoplexies, Lethargies, and other ſleepy Diſeaſes, the excrementitious Hum<g ref="char:EOLhyphen"/>ours cauſing the ſame, are, as it were, diſſolved and made with eaſe to paſs away through the Noſtrils, it working gently for a long time together, at<g ref="char:EOLhyphen"/>tracting powerfully and bringing away from all parts of the Head and Brain ſuch a vaſt quantity of Excrements, that Deafneſs, tho' of never ſo long ſtanding, as alſo Cataracts and Suffuſions which over-ſpread the Sight and cauſe Blindneſs, may poſſibly be cured thereby, or at leaſtwiſe it will ſo far help the Sight and Hearing, as to be found exceeding beneficial and ſafe when all other ſorts of Snuff have been ſo far from helping therein, that they have manifeſtly been deſtru<g ref="char:EOLhyphen"/>ctive to both the one and the other.</p>
+            <p>But for thoſe other Head-Diſeaſes before men<g ref="char:EOLhyphen"/>tioned, and in an eſpecial manner for Apoplexies,
+<pb n="7" facs="tcp:180386:4"/>
+               <!-- PDF PAGE 125 -->it may poſſibly do more than any other thing in the World beſide, and that more particularly if it be ſnuff'd up the Noſtrils every Morning, or upon extraordinary occaſions at Nights alſo for two or three or four days ſucceſſively. And if the Tablets alſo be uſed daily as in the following Directions, they may together work ſuch won<g ref="char:EOLhyphen"/>derful Effects in thoſe Diſeaſes, as would be al<g ref="char:EOLhyphen"/>moſt incredible to relate, for they will cauſe ſuch a total Evacuation and Diſcharge of the foul ex<g ref="char:EOLhyphen"/>crementitious Humours which cauſe moſt Head-Diſeaſes, as muſt needs beyond all inward means work far greater and indeed very ſurprizing Effects.</p>
+            <div type="directions">
+               <head>Directions for uſing the Tablets.</head>
+               <p>PUT one of them into your Mouth, and as ſoon as ſoft (which will be in a moments time) chew it or hold it there, rowling it about with your Tongue, for as long or as ſhort a time as your Diſtemper may require you ſhould Spit more or leſs, always Spitting out the Rheum as it is attracted, which will come faſter after a quarter of an hours time, but never ſo faſt as to be troubleſome.</p>
+               <p>If you would Spit a Quart in a day, uſe thus one or two of them one after another for four or five hours at times, and ſo in proportion more or leſs as you have occaſion; and if before you are aware you ſhould ſwallow your Spittle; or by chance the Tablet, 'twill no ways harm you or diſorder your Stomach.</p>
+               <pb n="8" facs="tcp:180386:5"/>
+               <!-- PDF PAGE 126 -->
+               <p>They will not ſtick to your Mouth or Teeth neither do they diſſolve or waſte by uſing, ſo that one will laſt a whole day if you pleaſe.</p>
+               <p>In ſome Perſons the Rheum is harder to be attracted, and may not come ſo free, the Glan<g ref="char:EOLhyphen"/>dules of the Mouth and Throat not being ſo open and relax'd, therefore ſuch muſt only uſe them longer at a time than others, and will re<g ref="char:EOLhyphen"/>ceive the ſame benefit, which at moſt is ſo far from being tireſome, that when you have been uſed to them, you will ſcarcely at all care to be without them in your Mouth, they being eaſie and pleaſant, refreſhing to the Memory and In<g ref="char:EOLhyphen"/>tellectuals, giving one the opportunity of think<g ref="char:EOLhyphen"/>ing with greater Perſpicuity and Apprehenſion.</p>
+               <pb facs="tcp:180386:5"/>
+               <!-- PDF PAGE 126 -->
+               <pb n="8" facs="tcp:180386:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 127 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:180386:6"/>
+               <!-- PDF PAGE 127 -->
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
